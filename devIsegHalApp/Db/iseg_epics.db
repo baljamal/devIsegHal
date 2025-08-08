@@ -520,7 +520,7 @@ record( bi, "$(P)$(R)M$(MODULE_ID):isModuleGood" ) {
   field( INP,  "$(P)$(R)M$(MODULE_ID):Status.BC CP" )
   field( ZNAM, "Faults" )
   field( ONAM, "OK" )
-  field( ZSV,  "MINOR" )
+  field( ZSV,  "MAJOR" )
   field( OSV,  "NO_ALARM" )
 }
 
